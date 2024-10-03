@@ -1,6 +1,6 @@
 # BabyDogePAWS
 
-> 🇷🇺 README на русском доступен [здесь](README-EN.md)
+> 🇷🇺 README на русском доступен [здесь](README.md)
 
 Bots for telegram projects are available for sale such as:
 
